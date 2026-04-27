@@ -41,4 +41,4 @@ The system was tested under severe, randomized load conditions over a 1-second s
 **Addis Ababa Science and Technology University (AASTU)**  
 *College of Engineering | Dept. of Electromechanical Engineering*
 
-* **Desalegn Lulie** (ID: ETS0486/14)
+* **Desalegn Lulie**
