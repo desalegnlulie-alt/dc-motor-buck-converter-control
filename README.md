@@ -37,9 +37,6 @@ The system was tested under severe, randomized load conditions over a 1-second s
 4. Click the **Run** button to simulate the system.
 5. Open the Scope blocks to view the live dynamic responses of the **Motor Speed**, **Electrical Torque**, and **Output Current**.
 
-## 📸 System Model & Results
-*(Drag and drop screenshots of your Simulink Complete System Model and Motor Speed Graph here!)*
-
 ## 👥 Team Members
 **Addis Ababa Science and Technology University (AASTU)**  
 *College of Engineering | Dept. of Electromechanical Engineering*
